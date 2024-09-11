@@ -1,2 +1,2 @@
-# Desarrollo-y-dise-o-de-software
+# Ejercicio_Modelado
  Trabajo 2 clases 
